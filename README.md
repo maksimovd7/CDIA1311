@@ -85,7 +85,17 @@
 ### Итог
 Таким образом, жадный алгоритм гарантирует расписание с временем завершения, не более чем в $$2 - \frac{1}{m}$$ раз превышающим оптимальное. Это и есть коэффициент аппроксимации алгоритма.
 
+Этот результат впервые доказан в классической работе Graham (1966) по оценке жадных алгоритмов для параллельного составления расписаний и часто цитируется как базовая теорема в теории аппроксимационных алгоритмов для задач расписания.[1][2][3]
 
+[1](https://fanchung.ucsd.edu/teach/202/14/11approx-alg0.pdf)
+[2](https://algo.cs.uni-frankfurt.de/lehre/apx/winter2122/notes/notes.pdf)
+[3](https://rasmuspagh.net/courses/sad12/11approx-alg.pdf)
+[4](https://arxiv.org/pdf/2508.04159.pdf)
+[5](https://www.mathnet.ru/php/getFT.phtml?jrnid=rm&paperid=10245&what=fullt&option_lang=rus)
+[6](https://d-nb.info/102000150X/34)
+[7](https://web.math.princeton.edu/~nalon/PDFS/aawy2.pdf)
+[8](https://drops.dagstuhl.de/storage/00lipics/lipics-vol327-stacs2025/LIPIcs.STACS.2025.31/LIPIcs.STACS.2025.31.pdf)
+[9](https://perso.ens-lyon.fr/frederic.vivien/EPIT/Slides/Schwiegelshohn.pdf)
 
 
 
